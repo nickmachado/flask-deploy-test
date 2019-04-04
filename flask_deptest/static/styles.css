@@ -1,0 +1,11 @@
+html, body {
+  padding: 0;
+  height: 100%;
+  background-image: linear-gradient(to bottom right, #8342f4, #41e2f4);
+}
+
+.banner {
+  color: white;
+  text-align: center;
+  background: #821b33;
+}
